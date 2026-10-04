@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Ntfy Chat</string>
+
+    <string name="auth_title">Вход в Amigo Chat</string>
+    <string name="auth_subtitle">Введите номер телефона — мы отправим код подтверждения</string>
+    <string name="auth_phone_hint">+7 999 000-00-00</string>
+    <string name="auth_request_code">Получить код</string>
+    <string name="auth_code_hint">Код из SMS</string>
+    <string name="auth_verify">Войти</string>
+    <string name="auth_change_phone">Изменить номер</string>
+    <string name="auth_resend">Отправить повторно</string>
+    <string name="auth_code_sent">Код отправлен на номер %1$s</string>
+    <string name="auth_debug_code">Код (debug): %1$s</string>
+
+    <string name="chats_title">Чаты</string>
+    <string name="chats_empty">Пока нет чатов</string>
+    <string name="chats_new">Новый чат</string>
+    <string name="chats_retry">Повторить</string>
+    <string name="logout">Выйти</string>
+
+    <string name="chat_input_hint">Сообщение…</string>
+    <string name="chat_send">Отправить</string>
+    <string name="chat_attach">Прикрепить файл</string>
+    <string name="chat_loading">Загрузка…</string>
+    <string name="chat_empty">Сообщений пока нет</string>
+    <string name="chat_deleted">Сообщение удалено</string>
+    <string name="chat_edited">изменено</string>
+    <string name="chat_reply">Ответить</string>
+    <string name="chat_edit">Изменить</string>
+    <string name="chat_delete">Удалить</string>
+    <string name="chat_cancel">Отмена</string>
+    <string name="chat_copy">Копировать</string>
+    <string name="chat_online">подключено</string>
+    <string name="chat_offline">нет соединения</string>
+    <string name="chat_typing">печатает…</string>
+    <string name="chat_ai">AI</string>
+    <string name="chat_file">Файл</string>
+
+    <string name="new_chat_title">Новый чат</string>
+    <string name="new_chat_name">Название чата</string>
+    <string name="new_chat_type">Тип</string>
+    <string name="new_chat_members">ID участников через запятую</string>
+    <string name="new_chat_create">Создать</string>
+    <string name="new_chat_direct">Личный</string>
+    <string name="new_chat_group">Группа</string>
+    <string name="new_chat_agent">AI-ассистент</string>
+
+    <string name="error_generic">Произошла ошибка</string>
+    <string name="error_network">Нет соединения с сервером</string>
+    <string name="retry">Повторить</string>
+</resources>
